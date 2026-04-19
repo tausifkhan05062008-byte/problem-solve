@@ -1,2 +1,2 @@
 # problem-solve
-enter the cod
+enter the code
